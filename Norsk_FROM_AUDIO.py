@@ -2,14 +2,6 @@
 """
 Created on Sun Jul  3 10:13:43 2022
 
-!pip3 install pyaudio
-
-(If pyaudio is not installing please use the installation direct from 
-wheel based on your python version)
-
-!pip3 install SpeechRecognition
-!pip3 install gradio
-
 @author: manish
 """
 from transformers import pipeline
